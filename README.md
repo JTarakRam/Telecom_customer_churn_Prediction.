@@ -36,9 +36,11 @@ The following libraries are required to run the project:<br>
 <br>
 **Installation**<br>
 Clone the repository:<br>
-git clone https://github.com/TarakRam1818/Telecom_customer_churn_Prediction..git
+git clone https://github.com/TarakRam1818/Telecom_customer_churn_Prediction..git<br>
+<br>
 Navigate to the project directory:<br>
 cd Telecom_customer_churn_Prediction<br>
+<br>
 Install the required libraries:<br>
 pip install -r requirements.txt<br>
 **Conclusion**<br>
