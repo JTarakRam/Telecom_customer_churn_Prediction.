@@ -20,7 +20,6 @@ The project follows a standard machine learning pipeline, including data cleanin
 <br>
 *Machine Learning Models*<br>
 The following machine learning models are used in this project:<br>
-
 + Logistic Regression<br>
 + Decision Tree<br>
 + Random Forest<br>
@@ -28,7 +27,6 @@ The following machine learning models are used in this project:<br>
 <br>
 **Requirements**<br>
 The following libraries are required to run the project:<br>
-
 + Python 3.7 or higher<br>
 + scikit-learn<br>
 + pandas<br>
@@ -36,11 +34,11 @@ The following libraries are required to run the project:<br>
 + matplotlib<br>
 + seaborn<br>
 <br>
-Installation<br>
+**Installation**<br>
 Clone the repository:<br>
-git clone 
+git clone https://github.com/TarakRam1818/Telecom_customer_churn_Prediction..git
 Navigate to the project directory:<br>
-cd telecom-customer-churn-prediction<br>
+cd Telecom_customer_churn_Prediction<br>
 Install the required libraries:<br>
 pip install -r requirements.txt<br>
 **Conclusion**<br>
