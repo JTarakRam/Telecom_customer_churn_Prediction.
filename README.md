@@ -18,14 +18,14 @@ The project follows a standard machine learning pipeline, including data cleanin
 + Model Selection: Several machine learning models are trained and evaluated to select the best model for prediction.<br>
 + Evaluation: The performance of the selected model is evaluated using various evaluation metrics such as accuracy, precision, recall, and F1 score.<br>
 <br>
-*Machine Learning Models*<br>
+**Machine Learning Models**
 The following machine learning models are used in this project:<br>
 + Logistic Regression<br>
 + Decision Tree<br>
 + Random Forest<br>
 + Navie Bayes<br>
 <br>
-**Requirements**<br>
+**Requirements**
 The following libraries are required to run the project:<br>
 + Python 3.7 or higher<br>
 + scikit-learn<br>
@@ -34,7 +34,7 @@ The following libraries are required to run the project:<br>
 + matplotlib<br>
 + seaborn<br>
 <br>
-**Installation**<br>
+**Installation**
 Clone the repository:<br>
 git clone https://github.com/TarakRam1818/Telecom_customer_churn_Prediction..git<br>
 <br>
@@ -43,5 +43,5 @@ cd Telecom_customer_churn_Prediction<br>
 <br>
 Install the required libraries:<br>
 pip install -r requirements.txt<br>
-**Conclusion**<br>
+**Conclusion**
 The Telecom Customer Churn Prediction is a machine learning project that helps telecom companies predict customer churn and take necessary actions to prevent customers from leaving. The project demonstrates the use of various machine learning models and evaluation metrics to select the best model for prediction. The project can be further improved by using more advanced machine learning techniques and by collecting more data.
