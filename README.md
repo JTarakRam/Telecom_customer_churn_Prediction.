@@ -10,21 +10,19 @@ The dataset used for this project is obtained from Kaggle, which contains 7,043 
 
 **Methodology**
 The project follows a standard machine learning pipeline, including data cleaning, preprocessing, feature engineering, model selection, and evaluation. The following steps are involved in the project:<br>
-
 + Data Cleaning: The dataset is cleaned by removing missing values and duplicates.<br>
 + Exploratory Data Analysis (EDA): EDA is performed to understand the relationships between variables and identify patterns.<br>
 + Preprocessing: The dataset is preprocessed by converting categorical variables into numerical values using encoding techniques.<br>
 + Feature Selection: Selecting the features<br>
 + Model Selection: Several machine learning models are trained and evaluated to select the best model for prediction.<br>
 + Evaluation: The performance of the selected model is evaluated using various evaluation metrics such as accuracy, precision, recall, and F1 score.<br>
-<br>
+
 **Machine Learning Models**
 The following machine learning models are used in this project:<br>
 + Logistic Regression<br>
 + Decision Tree<br>
 + Random Forest<br>
 + Navie Bayes<br>
-<br>
 **Requirements**
 The following libraries are required to run the project:<br>
 + Python 3.7 or higher<br>
@@ -33,7 +31,6 @@ The following libraries are required to run the project:<br>
 + numpy<br>
 + matplotlib<br>
 + seaborn<br>
-<br>
 **Installation**
 Clone the repository:<br>
 git clone https://github.com/TarakRam1818/Telecom_customer_churn_Prediction..git<br>
