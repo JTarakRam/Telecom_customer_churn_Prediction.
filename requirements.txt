@@ -5,3 +5,4 @@ seaborn
 scikit-learn
 warnings
 pickle
+imblearn
